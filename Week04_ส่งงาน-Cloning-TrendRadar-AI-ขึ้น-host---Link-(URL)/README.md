@@ -10,8 +10,8 @@
 
 ## ข้อความที่ส่ง (Online text)
 
-https://week4.freedev.app/index.htmlhttps://week4.freedev.app/index.html
+[https://week4.freedev.app/index.htmlhttps://week4.freedev.app/index.html](https://trendradar-ai-zeta.vercel.app/)
 
 ## ไฟล์งานที่ส่ง
 
-- (ไม่มีไฟล์แนบใน Moodle)
+[- (ไม่มีไฟล์แนบใน Moodle)](https://trendradar-ai-zeta.vercel.app/)
